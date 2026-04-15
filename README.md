@@ -1,11 +1,12 @@
-# Unofficial Banking API – Endpoint 3000
+# Unofficial Banking API
 
 This document provides a high-level, informational overview of how service interactions behave based on publicly observable system patterns.  
 It is intended for educational purposes only and is not affiliated with any official provider.
 
+
 ---
 
-## Endpoint
+## Example Endpoint
 
 `POST /account-service/3000`
 
